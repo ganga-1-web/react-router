@@ -1,5 +1,4 @@
 import React from "react";
-
 const About = () => {
   return (
     <div className="container">
@@ -8,5 +7,4 @@ const About = () => {
     </div>
   );
 };
-
 export default About;
